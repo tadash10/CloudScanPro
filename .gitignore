@@ -1,0 +1,11 @@
+# Ignore Python virtual environment files
+venv/
+
+# Ignore logs
+*.log
+
+# Ignore generated files
+generated/
+
+# Ignore sensitive information
+secrets.yaml
